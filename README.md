@@ -29,17 +29,9 @@ We observed humanoid robots, autonomous drones, self-navigating vehicles, and ge
 ```
 📁 report/        → Full written report 
 📁 presentation/  → Final slide deck 
-```
-
----
 
 ## 🏫 About
 
 **Department:** Computer Science and Engineering  
 **University:** IUBAT — International University of Business Agriculture and Technology  
 **Semester:** Spring 2026
-```
-
----
-
-এটা copy করে তোমার GitHub repo-তে `README.md` নামে একটা ফাইল বানিয়ে paste করে দিলেই হবে। Photos যোগ করতে চাইলে `images/` নামে একটা folder বানিয়ে ছবি আপলোড করো, তাহলে সেগুলোও দেখাবে। 🚀
