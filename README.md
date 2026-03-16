@@ -27,8 +27,8 @@ We observed humanoid robots, autonomous drones, self-navigating vehicles, and ge
 ## 📂 Repository Contents
 
 ```
-📁 report/        → Full written report 
-📁 presentation/  → Final slide deck 
+📁 report/        → Full written report (robotics in making.docx)
+📁 presentation/  → Final slide deck (RTV_final_presentation_animated (2).pptx)
 
 ## 🏫 About
 
